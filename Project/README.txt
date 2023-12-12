@@ -1,6 +1,6 @@
 This project aims to generate music using two models trained on different combinations of datasets. To ensure the code runs as intended, follow the directions below:
 
-1. Upload to and run the source code in Google Colab.
+1. Upload to and run Project_code_Colab in Google Colab.
 
 2. Create a copy of the following folder in your Google Drive. This contains the EDM Beatport Key Dataset, converted into MIDI files. The Colabcode will then ask for permission to access this folder when the third block of code is run.
 
