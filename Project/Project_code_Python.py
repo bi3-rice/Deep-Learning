@@ -364,7 +364,7 @@ def mse_with_positive_pressure(y_true: tf.Tensor, y_pred: tf.Tensor):
 
 # model = tf.keras.Model(inputs, outputs)
 
-### Modified Double-Stack LSTM, from
+### Modified Double-Stack LSTM
 learning_rate = 0.001
 input_shape = (seq_length, 3)
 inputs = tf.keras.Input(input_shape)
