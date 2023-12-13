@@ -7,6 +7,7 @@ This project aims to generate music using two models trained on different combin
 https://drive.google.com/drive/folders/1VPhpF4uI4ZXB6mtJHSmdvLoledghHxQJ?usp=sharing
 
 
+
 The models are trained on either MAESTRO or Beatport. To switch the dataset that the models are trained on, replace line 67 in the second blockunder "MusicVAE" and line 77 in the first block under "LSTM Model" with the below lines according to your preference:
 
 train_ds_EDM,
